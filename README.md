@@ -3,9 +3,9 @@ This is an anonymous data repository for analyzing the bias of AIGC (AI-generate
 
 ## 1. news_data
 
-### 1.1 ***raw_news.json***
+### 1.1 ***nyt_title.json*** and ***reuters_title.json***
 
-8629 news articles collected from The New York Times and Reuters over the period of late 2022 to early 2023. 
+A total of 8629 news articles collected from The New York Times and Reuters over the period of late 2022 to early 2023. 
 
 ### 1.2 ***LLM.json***
 
@@ -17,11 +17,11 @@ Use ''Argentina Wins the 2022 World Cup, Defeating France'' as a title to write 
 
 ## 2. sentence_data
 
-### 2.1 ***raw_news_sentences.json***
+<!-- ### 2.1 ***raw_news_sentences.json***
 
-Group sentences in the 8629 news articles collected from The New York Times and Reuters into the following categories: female, male, white, black, asian, gender_neutral, race_neutral. 
+Group sentences in the 8629 news articles collected from The New York Times and Reuters into the following categories: female, male, white, black, asian, gender_neutral, race_neutral.  -->
 
-### 2.2 ***LLM_sentences.json***
+### 2.1 ***LLM_sentences.json***
 
 Group sentences in the AIGC produced by an LLM into the following categories: female, male, white, black, asian, gender_neutral, race_neutral. 
 
