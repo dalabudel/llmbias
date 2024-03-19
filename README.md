@@ -8,7 +8,7 @@ Fang, X., Che, S., Mao, M., Zhang, H., Zhao, M., & Zhao, X. (2024). Bias of AI-g
 
 ### 1.1 ***nyt_title.json*** and ***reuters_title.json***
 
-A total of 8629 news articles collected from The New York Times and Reuters over the period of late 2022 to early 2023. 
+A total of 8629 news article titles collected from The New York Times and Reuters over the period of late 2022 to early 2023. 
 
 ### 1.2 ***LLM.json***
 
