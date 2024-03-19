@@ -1,5 +1,8 @@
 # Data 
-This is an anonymous data repository for analyzing the bias of AIGC (AI-generated Content) produced by LLMs (Large Language Models). 
+This is the data repository for analyzing the bias of AIGC (AI-generated Content) produced by LLMs (Large Language Models). 
+If use find it useful, please cite our paper: 
+
+Fang, X., Che, S., Mao, M., Zhang, H., Zhao, M., & Zhao, X. (2024). Bias of AI-generated content: an examination of news produced by large language models. Scientific Reports, 14(1), 1-20.
 
 ## 1. news_data
 
